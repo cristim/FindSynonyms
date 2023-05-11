@@ -2,7 +2,7 @@
 
 This is a simple Chrome extension that replaces words on a website with their synonyms.
 
-You can see it in action here against [https://example.com](https://example.com]):
+You can see it in action here against [example.com](https://example.com):
 
 ![demo](https://i.postimg.cc/Z5LkQHzj/Screenshot-2023-05-10-at-01-19-09.png)
 
