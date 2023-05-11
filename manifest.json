@@ -1,0 +1,13 @@
+{
+  "name": "Find Synonyms",
+  "version": "1.0",
+  "description": "A Chrome extension that replaces words in web pages with their synonyms.",
+  "permissions": ["activeTab", "scripting", "tabs", "storage"],
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
