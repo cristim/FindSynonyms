@@ -2,6 +2,11 @@
 
 This is a simple Chrome extension that replaces words on a website with their synonyms.
 
+You can see it in action here:
+
+![demo](https://i.postimg.cc/Z5LkQHzj/Screenshot-2023-05-10-at-01-19-09.png)
+
+
 ## Credits
 
 It was originally requested on [Reddit](https://www.reddit.com/r/SomebodyMakeThis/comments/136bicl/browser_extension_find_in_page_all_synonyms/) and is based on a code snippet written by [@marz1877](https://github.com/marz1877), which I further refactored using ChatGPT.
